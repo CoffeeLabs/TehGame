@@ -1,0 +1,3 @@
+[submodule "Lungo.js"]
+	path = Lungo.js
+	url = git://github.com/TapQuo/Lungo.js.git
